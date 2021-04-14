@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on MAC Lab in XMU
 
-- 🌱 I’m currently learning Multi-modal, Object Detection now
+- 🌱 I’m currently learning Multi-modal, Object Detection
 
 
 <!--
