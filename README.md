@@ -4,9 +4,7 @@
 
 - 🔭 I’m currently working on MAC Lab in XMU
 
-- 🌱 I’m currently learning Multi-modal, Object Detection
-
-- 📫 Whenever you need my help, just send an email to 596106517@qq.com
+- 🌱 I’m currently learning Multi-modal, Object Detection, Visual Recognition
 
 <!--
 **rentainhe/rentainhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
