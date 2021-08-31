@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on MAC Lab in XMU
+- 🔭 I’m currently working on OneFlow now.
 
 - 🌱 I’m currently learning Multi-modal, Object Detection, Visual Recognition
 
