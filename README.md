@@ -91,5 +91,12 @@ Here are some ideas to get you started:
       <td><img alt="Issues" src="https://img.shields.io/github/issues/rentainhe/pytorch-pooling?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rentainhe/pytorch-pooling?style=flat-square&labelColor=343b41"/></td>
     </tr>
+	  <tr>
+      <td><a href="https://github.com/rentainhe/mini-classification"><b>mini-classification</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/rentainhe/mini-classification?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/rentainhe/mini-classification?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/rentainhe/mini-classification?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rentainhe/mini-classification?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
