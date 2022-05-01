@@ -43,6 +43,13 @@ Here are some ideas to get you started:
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rentainhe/TRAR-VQA?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/luogen1996/SimREC"><b>SimREC</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/luogen1996/SimREC?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/luogen1996/SimREC?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/luogen1996/SimREC?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/luogen1996/SimREC?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Oneflow-Inc/libai"><b>libai</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Oneflow-Inc/libai?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Oneflow-Inc/libai?style=flat-square&labelColor=343b41"/></td>
