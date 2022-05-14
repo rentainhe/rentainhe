@@ -62,27 +62,5 @@ Here are some ideas to get you started:
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Oneflow-Inc/vision?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Oneflow-Inc/vision?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Oneflow-Inc/vision?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/rentainhe/pytorch-distributed-training"><b>pytorch-distributed-training</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/rentainhe/pytorch-distributed-training?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/rentainhe/pytorch-distributed-training?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/rentainhe/pytorch-distributed-training?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rentainhe/pytorch-distributed-training?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/rentainhe/visualization"><b>visualization</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/rentainhe/visualization?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/rentainhe/visualization?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/rentainhe/visualization?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rentainhe/visualization?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/rentainhe/ViT.pytorch"><b>ViT.pytorch</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/rentainhe/ViT.pytorch?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/rentainhe/ViT.pytorch?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/rentainhe/ViT.pytorch?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rentainhe/ViT.pytorch?style=flat-square&labelColor=343b41"/></td>
-    </tr>
   </tbody>
 </table>
