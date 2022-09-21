@@ -36,6 +36,13 @@ Here are some ideas to get you started:
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/IDEA-Research/detrex"><b>detrex</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/IDEA-Research/detrex?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/IDEA-Research/detrex?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/IDEA-Research/detrex?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/IDEA-Research/detrex?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/rentainhe/TRAR-VQA"><b>TRAR-VQA</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/rentainhe/TRAR-VQA?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/rentainhe/TRAR-VQA?style=flat-square&labelColor=343b41"/></td>
