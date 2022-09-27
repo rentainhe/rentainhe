@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [IDEA-Research](https://github.com/IDEA-Research) now.
 
-- 🌱 I’m currently learning Multi-modal, Object Detection, Visual Recognition
+- 🌱 I’m currently learning Object Detection, Visual Recognition, Multi-modal
 
 - 📫 Send me an email if you need any help: 596106517@qq.com
 
@@ -43,11 +43,11 @@ Here are some ideas to get you started:
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/IDEA-Research/detrex?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/rentainhe/TRAR-VQA"><b>TRAR-VQA</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/rentainhe/TRAR-VQA?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/rentainhe/TRAR-VQA?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/rentainhe/TRAR-VQA?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rentainhe/TRAR-VQA?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/Oneflow-Inc/libai"><b>libai</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Oneflow-Inc/libai?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Oneflow-Inc/libai?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Oneflow-Inc/libai?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Oneflow-Inc/libai?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/luogen1996/SimREC"><b>SimREC</b></a></td>
@@ -55,13 +55,6 @@ Here are some ideas to get you started:
       <td><img alt="Forks" src="https://img.shields.io/github/forks/luogen1996/SimREC?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/luogen1996/SimREC?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/luogen1996/SimREC?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Oneflow-Inc/libai"><b>libai</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Oneflow-Inc/libai?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Oneflow-Inc/libai?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Oneflow-Inc/libai?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Oneflow-Inc/libai?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
