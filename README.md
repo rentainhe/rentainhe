@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Object Detection, Visual Recognition, Multi-modal
 
-- 📫 Send me an email if you need any help: 596106517@qq.com
+- 📫 Send me an email if you need any help: rentianhe070@gmail.com
 
 <!--
 **rentainhe/rentainhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
