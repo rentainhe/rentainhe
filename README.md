@@ -2,7 +2,7 @@
 <h2> Hi there, I'm RenTianhe. 👋 </h2>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=rentainhe&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-- 🔭 I’m currently working on [IDEA-Research](https://github.com/IDEA-Research) now.
+- 🔭 I’m currently working on [IDEA-Research](https://github.com/IDEA-Research) now, advised by Prof.[Lei Zhang](https://www.leizhang.org/).
 
 - 🌱 I’m currently learning Object Detection, Visual Recognition, Multi-modal
 
